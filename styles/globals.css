@@ -1,0 +1,14 @@
+html
+{
+  background-color: rgb(32, 34, 37)
+}
+h3{
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+}
+p{
+  display: flex;
+  color: white;
+  justify-content: center;
+}
